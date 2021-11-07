@@ -1,3 +1,3 @@
 # Welcome to Group A
 
-[member-info](../member-info/README.md)
+[member-info](https://github.com/RM2022-Internal-Group-A/member-info)
