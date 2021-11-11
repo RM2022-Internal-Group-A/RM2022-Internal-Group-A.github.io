@@ -8,5 +8,7 @@
 
 * [***.ioc files*** from Hardware](https://github.com/RM2022-Internal-Group-A/Hardware)
 
+* [motor control](https://github.com/RM2022-Internal-Group-A/motor_control)
+
   *This page is public*  
   *Do not push any private information here*
